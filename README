@@ -1,0 +1,3 @@
+FemtoChat is an toy project which shows a very simple chat using XHR long polling and node.js
+
+Usage: node main.js
